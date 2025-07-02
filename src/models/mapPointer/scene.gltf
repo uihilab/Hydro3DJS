@@ -1,0 +1,313 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 4448,
+      "max": [
+        1.3311574459075928,
+        2.066751480102539,
+        1.7028900401783176e-05
+      ],
+      "min": [
+        -1.3311575651168823,
+        -1.9497096538543701,
+        -0.22699998319149017
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 53376,
+      "componentType": 5126,
+      "count": 4448,
+      "max": [
+        0.9989342093467712,
+        0.998874843120575,
+        1.0
+      ],
+      "min": [
+        -0.9989355206489563,
+        -0.9993021488189697,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 4448,
+      "max": [
+        1.0,
+        0.9915088415145874
+      ],
+      "min": [
+        0.018413420766592026,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 24228,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 106752,
+      "componentType": 5126,
+      "count": 392,
+      "max": [
+        0.5493248105049133,
+        1.2057952880859375,
+        -0.008733756840229034
+      ],
+      "min": [
+        -0.5493248105049133,
+        0.10497349500656128,
+        -0.22699998319149017
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 111456,
+      "componentType": 5126,
+      "count": 392,
+      "max": [
+        0.9981130957603455,
+        1.0,
+        0.7995787262916565
+      ],
+      "min": [
+        -0.9981130957603455,
+        -1.0,
+        -0.7995787262916565
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 35584,
+      "componentType": 5126,
+      "count": 392,
+      "max": [
+        0.4890861511230469,
+        0.9875070452690125
+      ],
+      "min": [
+        0.005859374068677425,
+        0.7075117826461792
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 96912,
+      "componentType": 5125,
+      "count": 1440,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "thekiross (https://sketchfab.com/thekiross)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/map-pointer-162fba8901ea4ce5894d8b0916d802b4",
+      "title": "Map Pointer"
+    },
+    "generator": "Sketchfab-12.67.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 102672,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 38720,
+      "byteOffset": 102672,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 116160,
+      "byteOffset": 141392,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 257552,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Outsides",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1.0,
+          0.0,
+          0.005134000000000041,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.4581578183933255
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Insides",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.153193,
+          0.153193,
+          0.153193,
+          1.0
+        ],
+        "metallicFactor": 0.8635182962447585,
+        "roughnessFactor": 0.3172758374253706
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Plane_Outsides_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane_Insides_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.9999877214431763,
+        -1.597111658898542e-16,
+        -0.004958897363394499,
+        0.0,
+        -0.004958897363394499,
+        3.8285414083350525e-16,
+        -0.9999877214431763,
+        0.0,
+        1.616077453472529e-16,
+        1.0,
+        3.8205744017216357e-16,
+        0.0,
+        0.000562792643904686,
+        3.0307006936246724e-13,
+        -1.4479578567261342e-06,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "352c2b73c9204e899b109cb3440e44dc.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        99.9999999999999,
+        4.371138828673792e-06,
+        0.0,
+        0.0,
+        -4.371138828673792e-06,
+        99.9999999999999,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Plane"
+    },
+    {
+      "mesh": 0,
+      "name": "Plane_Outsides_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Plane_Insides_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

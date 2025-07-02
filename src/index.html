@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.0/css/bulma.min.css">
+  <meta charset="utf-8">
+  <title>@googlemaps/three: basic</title>
+  <style>
+    #map,
+    html,
+    body {
+      height: 100%;
+      width: 100%;
+      margin: 0;
+    }
+  </style>
+  <script src="https://unpkg.com/deck.gl@^7.0.0/dist.min.js"></script>
+  <script
+    src="https://maps.googleapis.com/maps/api/js?key=?&libraries=visualization&v=3.34"></script>         <!-- Add google maps API key here-->
+</head>
+
+<body>
+  <div id="guage-info" class="guage-info hide"></div>
+
+ <div style="display: flex;">
+    <div id="panel" class="icon-panel">
+      <div id="icon-group" class="icon-group">
+        <figure class="image is-64x64">
+          <img src="/icons/location.webp" alt="" id="location-icon">
+        </figure>
+        <figure class="image is-64x64">
+          <img src="/icons/flood_map.png" alt="" id="flood-map-icon">
+        </figure>
+        <figure class="image is-64x64">
+          <img src="/icons/guage_icon.png" alt="" id="guage-icon">
+        </figure>
+        <figure class="image is-64x64">
+          <img src="/icons/rain_icon.png" alt="" id="rain-icon">
+        </figure>
+        <figure class="image is-64x64">
+          <img src="/icons/ship_icon.jpg" alt="" style="padding: 0; width: 60px; height: 60px;" id="ship-icon">
+        </figure>
+      </div>
+      <div class="overlay-panel">
+        <!-- Dynamic content will be injected here -->
+      </div>
+    </div>
+
+    <div style="width: calc(100vw - 62px); right: 0; position: absolute;" id="map"></div>
+  </div>
+
+<script src="/main_demo.bundle.js" type="module"></script>
+<script src="/ui/ui.js" type="module"></script>
+<script src="../src/core/vendor-1d496b00.js" type="module"></script>
+<script src="https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js"></script>
+<script src="https://unpkg.com/@googlemaps/three/dist/index.min.js"></script>
+</body>
+
+</html>

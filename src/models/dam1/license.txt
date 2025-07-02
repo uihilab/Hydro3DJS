@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sepulveda Dam 3D Map
+* source:	https://sketchfab.com/3d-models/sepulveda-dam-3d-map-df8efdcb297049e09a20f2030bf6cf4f
+* author:	rctimerusa (https://sketchfab.com/rctimerusa)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sepulveda Dam 3D Map" (https://sketchfab.com/3d-models/sepulveda-dam-3d-map-df8efdcb297049e09a20f2030bf6cf4f) by rctimerusa (https://sketchfab.com/rctimerusa) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

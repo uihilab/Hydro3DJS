@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fisherman's Shack | Detailed Draft
+* source:	https://sketchfab.com/3d-models/fishermans-shack-detailed-draft-6746a707e46f4dc28893e6c9ad1792ed
+* author:	akselmot (https://sketchfab.com/akselmot)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fisherman's Shack | Detailed Draft" (https://sketchfab.com/3d-models/fishermans-shack-detailed-draft-6746a707e46f4dc28893e6c9ad1792ed) by akselmot (https://sketchfab.com/akselmot) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

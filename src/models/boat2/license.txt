@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hinckley T44 FB Model
+* source:	https://sketchfab.com/3d-models/hinckley-t44-fb-model-1f4362d864424b7eb26bb429f6ef8f81
+* author:	mosak (https://sketchfab.com/mosak)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hinckley T44 FB Model" (https://sketchfab.com/3d-models/hinckley-t44-fb-model-1f4362d864424b7eb26bb429f6ef8f81) by mosak (https://sketchfab.com/mosak) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wind Turbine
+* source:	https://sketchfab.com/3d-models/wind-turbine-285032402a8543ae8bf3e3c4d8c9f98a
+* author:	DoobiDooba (https://sketchfab.com/DoobiDooba)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wind Turbine" (https://sketchfab.com/3d-models/wind-turbine-285032402a8543ae8bf3e3c4d8c9f98a) by DoobiDooba (https://sketchfab.com/DoobiDooba) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

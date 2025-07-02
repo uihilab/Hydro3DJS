@@ -1,0 +1,1102 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v3.2.40",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                6,
+                13,
+                20,
+                27,
+                34
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "Object_6",
+            "translation" : [
+                0,
+                3.814697265625e-06,
+                0
+            ]
+        },
+        {
+            "children" : [
+                0
+            ],
+            "name" : "Windturbine Blades_1",
+            "scale" : [
+                0.40057528018951416,
+                0.40057528018951416,
+                0.471651166677475
+            ],
+            "translation" : [
+                0,
+                13.161629676818848,
+                0.563713550567627
+            ]
+        },
+        {
+            "mesh" : 1,
+            "name" : "Object_4"
+        },
+        {
+            "children" : [
+                2
+            ],
+            "name" : "Windturbine Support_0",
+            "scale" : [
+                0.40057528018951416,
+                0.40057528018951416,
+                0.471651166677475
+            ]
+        },
+        {
+            "children" : [
+                1,
+                3
+            ],
+            "name" : "GLTF_SceneRootNode",
+            "rotation" : [
+                0.7071068286895752,
+                0,
+                0,
+                0.7071067094802856
+            ]
+        },
+        {
+            "children" : [
+                4
+            ],
+            "name" : "root"
+        },
+        {
+            "children" : [
+                5
+            ],
+            "name" : "Sketchfab_model",
+            "rotation" : [
+                -0.7071068286895752,
+                0,
+                0,
+                0.7071067094802856
+            ]
+        },
+        {
+            "mesh" : 2,
+            "name" : "Object_6.001",
+            "translation" : [
+                0,
+                3.814697265625e-06,
+                0
+            ]
+        },
+        {
+            "children" : [
+                7
+            ],
+            "name" : "Windturbine Blades_1.001",
+            "scale" : [
+                0.40057528018951416,
+                0.40057528018951416,
+                0.471651166677475
+            ],
+            "translation" : [
+                0,
+                13.161629676818848,
+                0.563713550567627
+            ]
+        },
+        {
+            "mesh" : 3,
+            "name" : "Object_4.001"
+        },
+        {
+            "children" : [
+                9
+            ],
+            "name" : "Windturbine Support_0.001",
+            "scale" : [
+                0.40057528018951416,
+                0.40057528018951416,
+                0.471651166677475
+            ]
+        },
+        {
+            "children" : [
+                8,
+                10
+            ],
+            "name" : "GLTF_SceneRootNode.001",
+            "rotation" : [
+                0.7071068286895752,
+                0,
+                0,
+                0.7071067094802856
+            ]
+        },
+        {
+            "children" : [
+                11
+            ],
+            "name" : "root.001"
+        },
+        {
+            "children" : [
+                12
+            ],
+            "name" : "Sketchfab_model.001",
+            "rotation" : [
+                -0.7071068286895752,
+                0,
+                0,
+                0.7071067094802856
+            ],
+            "translation" : [
+                15.294708251953125,
+                0,
+                0
+            ]
+        },
+        {
+            "mesh" : 4,
+            "name" : "Object_6.002",
+            "translation" : [
+                3.814697265625e-06,
+                3.814697265625e-06,
+                0
+            ]
+        },
+        {
+            "children" : [
+                14
+            ],
+            "name" : "Windturbine Blades_1.002",
+            "scale" : [
+                0.40057528018951416,
+                0.40057528018951416,
+                0.471651166677475
+            ],
+            "translation" : [
+                0,
+                13.161629676818848,
+                0.563713550567627
+            ]
+        },
+        {
+            "mesh" : 5,
+            "name" : "Object_4.002",
+            "translation" : [
+                3.814697265625e-06,
+                0,
+                0
+            ]
+        },
+        {
+            "children" : [
+                16
+            ],
+            "name" : "Windturbine Support_0.002",
+            "scale" : [
+                0.40057528018951416,
+                0.40057528018951416,
+                0.471651166677475
+            ]
+        },
+        {
+            "children" : [
+                15,
+                17
+            ],
+            "name" : "GLTF_SceneRootNode.002",
+            "rotation" : [
+                0.7071068286895752,
+                0,
+                0,
+                0.7071067094802856
+            ]
+        },
+        {
+            "children" : [
+                18
+            ],
+            "name" : "root.002"
+        },
+        {
+            "children" : [
+                19
+            ],
+            "name" : "Sketchfab_model.002",
+            "rotation" : [
+                -0.7071068286895752,
+                0,
+                0,
+                0.7071067094802856
+            ],
+            "translation" : [
+                -15.42477798461914,
+                0,
+                0
+            ]
+        },
+        {
+            "mesh" : 6,
+            "name" : "Object_6.003",
+            "translation" : [
+                0,
+                3.814697265625e-06,
+                0
+            ]
+        },
+        {
+            "children" : [
+                21
+            ],
+            "name" : "Windturbine Blades_1.003",
+            "scale" : [
+                0.40057528018951416,
+                0.40057528018951416,
+                0.471651166677475
+            ],
+            "translation" : [
+                0,
+                13.161629676818848,
+                0.563713550567627
+            ]
+        },
+        {
+            "mesh" : 7,
+            "name" : "Object_4.003"
+        },
+        {
+            "children" : [
+                23
+            ],
+            "name" : "Windturbine Support_0.003",
+            "scale" : [
+                0.40057528018951416,
+                0.40057528018951416,
+                0.471651166677475
+            ]
+        },
+        {
+            "children" : [
+                22,
+                24
+            ],
+            "name" : "GLTF_SceneRootNode.003",
+            "rotation" : [
+                0.7071068286895752,
+                0,
+                0,
+                0.7071067094802856
+            ]
+        },
+        {
+            "children" : [
+                25
+            ],
+            "name" : "root.003"
+        },
+        {
+            "children" : [
+                26
+            ],
+            "name" : "Sketchfab_model.003",
+            "rotation" : [
+                -0.7071068286895752,
+                0,
+                0,
+                0.7071067094802856
+            ],
+            "translation" : [
+                29.58095932006836,
+                0,
+                0
+            ]
+        },
+        {
+            "mesh" : 8,
+            "name" : "Object_6.004",
+            "translation" : [
+                7.62939453125e-06,
+                3.814697265625e-06,
+                0
+            ]
+        },
+        {
+            "children" : [
+                28
+            ],
+            "name" : "Windturbine Blades_1.004",
+            "scale" : [
+                0.40057528018951416,
+                0.40057528018951416,
+                0.471651166677475
+            ],
+            "translation" : [
+                0,
+                13.161629676818848,
+                0.563713550567627
+            ]
+        },
+        {
+            "mesh" : 9,
+            "name" : "Object_4.004",
+            "translation" : [
+                7.62939453125e-06,
+                0,
+                0
+            ]
+        },
+        {
+            "children" : [
+                30
+            ],
+            "name" : "Windturbine Support_0.004",
+            "scale" : [
+                0.40057528018951416,
+                0.40057528018951416,
+                0.471651166677475
+            ]
+        },
+        {
+            "children" : [
+                29,
+                31
+            ],
+            "name" : "GLTF_SceneRootNode.004",
+            "rotation" : [
+                0.7071068286895752,
+                0,
+                0,
+                0.7071067094802856
+            ]
+        },
+        {
+            "children" : [
+                32
+            ],
+            "name" : "root.004"
+        },
+        {
+            "children" : [
+                33
+            ],
+            "name" : "Sketchfab_model.004",
+            "rotation" : [
+                -0.7071068286895752,
+                0,
+                0,
+                0.7071067094802856
+            ],
+            "translation" : [
+                -30.538105010986328,
+                0,
+                0
+            ]
+        }
+    ],
+    "materials" : [
+        {
+            "doubleSided" : true,
+            "name" : "Windmill",
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 0
+                },
+                "metallicFactor" : 0.3901081681251526,
+                "roughnessFactor" : 0.5
+            }
+        },
+        {
+            "doubleSided" : true,
+            "name" : "Windmill.001",
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 1
+                },
+                "metallicFactor" : 0.3901081681251526,
+                "roughnessFactor" : 0.5
+            }
+        },
+        {
+            "doubleSided" : true,
+            "name" : "Windmill.002",
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 2
+                },
+                "metallicFactor" : 0.3901081681251526,
+                "roughnessFactor" : 0.5
+            }
+        },
+        {
+            "doubleSided" : true,
+            "name" : "Windmill.003",
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 3
+                },
+                "metallicFactor" : 0.3901081681251526,
+                "roughnessFactor" : 0.5
+            }
+        },
+        {
+            "doubleSided" : true,
+            "name" : "Windmill.004",
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 4
+                },
+                "metallicFactor" : 0.3901081681251526,
+                "roughnessFactor" : 0.5
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Object_1",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3,
+                    "material" : 0
+                }
+            ]
+        },
+        {
+            "name" : "Object_0",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 4,
+                        "NORMAL" : 5,
+                        "TEXCOORD_0" : 6
+                    },
+                    "indices" : 7,
+                    "material" : 0
+                }
+            ]
+        },
+        {
+            "name" : "Object_1.001",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 8,
+                        "NORMAL" : 9,
+                        "TEXCOORD_0" : 10
+                    },
+                    "indices" : 3,
+                    "material" : 1
+                }
+            ]
+        },
+        {
+            "name" : "Object_0.001",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 11,
+                        "NORMAL" : 12,
+                        "TEXCOORD_0" : 13
+                    },
+                    "indices" : 7,
+                    "material" : 1
+                }
+            ]
+        },
+        {
+            "name" : "Object_1.002",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 14,
+                        "NORMAL" : 15,
+                        "TEXCOORD_0" : 16
+                    },
+                    "indices" : 3,
+                    "material" : 2
+                }
+            ]
+        },
+        {
+            "name" : "Object_0.002",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 17,
+                        "NORMAL" : 18,
+                        "TEXCOORD_0" : 19
+                    },
+                    "indices" : 7,
+                    "material" : 2
+                }
+            ]
+        },
+        {
+            "name" : "Object_1.003",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 20,
+                        "NORMAL" : 21,
+                        "TEXCOORD_0" : 22
+                    },
+                    "indices" : 3,
+                    "material" : 3
+                }
+            ]
+        },
+        {
+            "name" : "Object_0.003",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 23,
+                        "NORMAL" : 24,
+                        "TEXCOORD_0" : 25
+                    },
+                    "indices" : 7,
+                    "material" : 3
+                }
+            ]
+        },
+        {
+            "name" : "Object_1.004",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 26,
+                        "NORMAL" : 27,
+                        "TEXCOORD_0" : 28
+                    },
+                    "indices" : 3,
+                    "material" : 4
+                }
+            ]
+        },
+        {
+            "name" : "Object_0.004",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 29,
+                        "NORMAL" : 30,
+                        "TEXCOORD_0" : 31
+                    },
+                    "indices" : 7,
+                    "material" : 4
+                }
+            ]
+        }
+    ],
+    "textures" : [
+        {
+            "sampler" : 0,
+            "source" : 0
+        },
+        {
+            "sampler" : 0,
+            "source" : 0
+        },
+        {
+            "sampler" : 0,
+            "source" : 0
+        },
+        {
+            "sampler" : 0,
+            "source" : 0
+        },
+        {
+            "sampler" : 0,
+            "source" : 0
+        }
+    ],
+    "images" : [
+        {
+            "mimeType" : "image/png",
+            "name" : "Windmill_baseColor",
+            "uri" : "Windmill_baseColor.png"
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 1126,
+            "max" : [
+                14.652009963989258,
+                16.841712951660156,
+                2.2366676330566406
+            ],
+            "min" : [
+                -14.542757034301758,
+                -8.621158599853516,
+                -1.1920928955078125e-07
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 1126,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 1126,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5123,
+            "count" : 4056,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 4,
+            "componentType" : 5126,
+            "count" : 189,
+            "max" : [
+                1.170703649520874,
+                33.85681915283203,
+                1.4206569194793701
+            ],
+            "min" : [
+                -1.170703649520874,
+                0,
+                -1.0910956859588623
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 5,
+            "componentType" : 5126,
+            "count" : 189,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 6,
+            "componentType" : 5126,
+            "count" : 189,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 7,
+            "componentType" : 5123,
+            "count" : 384,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 8,
+            "componentType" : 5126,
+            "count" : 1126,
+            "max" : [
+                14.652009963989258,
+                16.841712951660156,
+                2.2366676330566406
+            ],
+            "min" : [
+                -14.542757034301758,
+                -8.621158599853516,
+                -1.1920928955078125e-07
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 9,
+            "componentType" : 5126,
+            "count" : 1126,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 10,
+            "componentType" : 5126,
+            "count" : 1126,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 11,
+            "componentType" : 5126,
+            "count" : 189,
+            "max" : [
+                1.170703649520874,
+                33.85681915283203,
+                1.4206569194793701
+            ],
+            "min" : [
+                -1.170703649520874,
+                0,
+                -1.0910956859588623
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 12,
+            "componentType" : 5126,
+            "count" : 189,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 13,
+            "componentType" : 5126,
+            "count" : 189,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 14,
+            "componentType" : 5126,
+            "count" : 1126,
+            "max" : [
+                14.652009963989258,
+                16.841712951660156,
+                2.2366676330566406
+            ],
+            "min" : [
+                -14.542757034301758,
+                -8.621158599853516,
+                -1.1920928955078125e-07
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 15,
+            "componentType" : 5126,
+            "count" : 1126,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 16,
+            "componentType" : 5126,
+            "count" : 1126,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 17,
+            "componentType" : 5126,
+            "count" : 189,
+            "max" : [
+                1.170703649520874,
+                33.85681915283203,
+                1.4206569194793701
+            ],
+            "min" : [
+                -1.170703649520874,
+                0,
+                -1.0910956859588623
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 18,
+            "componentType" : 5126,
+            "count" : 189,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 19,
+            "componentType" : 5126,
+            "count" : 189,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 20,
+            "componentType" : 5126,
+            "count" : 1126,
+            "max" : [
+                14.652009963989258,
+                16.841712951660156,
+                2.2366676330566406
+            ],
+            "min" : [
+                -14.542757034301758,
+                -8.621158599853516,
+                -1.1920928955078125e-07
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 21,
+            "componentType" : 5126,
+            "count" : 1126,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 22,
+            "componentType" : 5126,
+            "count" : 1126,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 23,
+            "componentType" : 5126,
+            "count" : 189,
+            "max" : [
+                1.170703649520874,
+                33.85681915283203,
+                1.4206569194793701
+            ],
+            "min" : [
+                -1.170703649520874,
+                0,
+                -1.0910956859588623
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 24,
+            "componentType" : 5126,
+            "count" : 189,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 25,
+            "componentType" : 5126,
+            "count" : 189,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 26,
+            "componentType" : 5126,
+            "count" : 1126,
+            "max" : [
+                14.652009963989258,
+                16.841712951660156,
+                2.2366676330566406
+            ],
+            "min" : [
+                -14.542757034301758,
+                -8.621158599853516,
+                -1.1920928955078125e-07
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 27,
+            "componentType" : 5126,
+            "count" : 1126,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 28,
+            "componentType" : 5126,
+            "count" : 1126,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 29,
+            "componentType" : 5126,
+            "count" : 189,
+            "max" : [
+                1.170703649520874,
+                33.85681915283203,
+                1.4206569194793701
+            ],
+            "min" : [
+                -1.170703649520874,
+                0,
+                -1.0910956859588623
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 30,
+            "componentType" : 5126,
+            "count" : 189,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 31,
+            "componentType" : 5126,
+            "count" : 189,
+            "type" : "VEC2"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 13512,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 13512,
+            "byteOffset" : 13512
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 9008,
+            "byteOffset" : 27024
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 8112,
+            "byteOffset" : 36032
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2268,
+            "byteOffset" : 44144
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2268,
+            "byteOffset" : 46412
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1512,
+            "byteOffset" : 48680
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 768,
+            "byteOffset" : 50192
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 13512,
+            "byteOffset" : 50960
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 13512,
+            "byteOffset" : 64472
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 9008,
+            "byteOffset" : 77984
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2268,
+            "byteOffset" : 86992
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2268,
+            "byteOffset" : 89260
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1512,
+            "byteOffset" : 91528
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 13512,
+            "byteOffset" : 93040
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 13512,
+            "byteOffset" : 106552
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 9008,
+            "byteOffset" : 120064
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2268,
+            "byteOffset" : 129072
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2268,
+            "byteOffset" : 131340
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1512,
+            "byteOffset" : 133608
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 13512,
+            "byteOffset" : 135120
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 13512,
+            "byteOffset" : 148632
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 9008,
+            "byteOffset" : 162144
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2268,
+            "byteOffset" : 171152
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2268,
+            "byteOffset" : 173420
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1512,
+            "byteOffset" : 175688
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 13512,
+            "byteOffset" : 177200
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 13512,
+            "byteOffset" : 190712
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 9008,
+            "byteOffset" : 204224
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2268,
+            "byteOffset" : 213232
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2268,
+            "byteOffset" : 215500
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1512,
+            "byteOffset" : 217768
+        }
+    ],
+    "samplers" : [
+        {
+            "magFilter" : 9729,
+            "minFilter" : 9987
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 219280,
+            "uri" : "scene.bin"
+        }
+    ]
+}

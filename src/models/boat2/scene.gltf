@@ -1,0 +1,623 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2778,
+      "max": [
+        1.0964299440383911,
+        1.4207700490951538,
+        4.500380039215088
+      ],
+      "min": [
+        -1.0056699514389038,
+        -1.4207700490951538,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 33336,
+      "componentType": 5126,
+      "count": 2778,
+      "max": [
+        0.9999872446060181,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 2778,
+      "max": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.9999474287033081,
+        -0.9999410510063171,
+        -0.9999972581863403,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2778,
+      "max": [
+        0.9966300129890442,
+        0.9971399903297424
+      ],
+      "min": [
+        0.003980000037699938,
+        0.010449999943375587
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 4605,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 66672,
+      "componentType": 5126,
+      "count": 1468,
+      "max": [
+        1.085919976234436,
+        1.3476200103759766,
+        4.428309917449951
+      ],
+      "min": [
+        -1.0909199714660645,
+        -1.3237799406051636,
+        -0.4632200002670288
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 84288,
+      "componentType": 5126,
+      "count": 1468,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 44448,
+      "componentType": 5126,
+      "count": 1468,
+      "max": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 22224,
+      "componentType": 5126,
+      "count": 1468,
+      "max": [
+        0.9930400252342224,
+        0.9911500215530396
+      ],
+      "min": [
+        0.005280000157654285,
+        0.010929999873042107
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 18420,
+      "componentType": 5125,
+      "count": 2394,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 101904,
+      "componentType": 5126,
+      "count": 99,
+      "max": [
+        1.0,
+        1.0,
+        0.0
+      ],
+      "min": [
+        -1.38864004611969,
+        -1.0,
+        0.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 103092,
+      "componentType": 5126,
+      "count": 99,
+      "max": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 67936,
+      "componentType": 5126,
+      "count": 99,
+      "max": [
+        -0.7810202240943909,
+        -0.6244454383850098,
+        0.0,
+        1.0
+      ],
+      "min": [
+        -0.7810685038566589,
+        -0.6245056390762329,
+        0.0,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 33968,
+      "componentType": 5126,
+      "count": 99,
+      "max": [
+        1.0872600078582764,
+        1.116860032081604
+      ],
+      "min": [
+        -0.14007000625133514,
+        -0.08649999648332596
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 27996,
+      "componentType": 5125,
+      "count": 480,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "mosak (https://sketchfab.com/mosak)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/hinckley-t44-fb-model-1f4362d864424b7eb26bb429f6ef8f81",
+      "title": "Hinckley T44 FB Model"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 29916,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 34760,
+      "byteOffset": 29916,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 104280,
+      "byteOffset": 64676,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 69520,
+      "byteOffset": 168956,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 238476,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsRequired": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "extensionsUsed": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "images": [
+    {
+      "uri": "textures/water_diffuse.png"
+    },
+    {
+      "uri": "textures/water_specularGlossiness.png"
+    },
+    {
+      "uri": "textures/water_normal.png"
+    },
+    {
+      "uri": "textures/yacht-miss_diffuse.jpeg"
+    },
+    {
+      "uri": "textures/yacht-miss_specularGlossiness.png"
+    },
+    {
+      "uri": "textures/yacht-miss_normal.png"
+    },
+    {
+      "uri": "textures/yacht-bdy_diffuse.jpeg"
+    },
+    {
+      "uri": "textures/yacht-bdy_specularGlossiness.jpeg"
+    },
+    {
+      "uri": "textures/yacht-bdy_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "diffuseTexture": {
+            "index": 0
+          },
+          "glossinessFactor": 0.9616996951,
+          "specularFactor": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "specularGlossinessTexture": {
+            "index": 1
+          }
+        }
+      },
+      "name": "water",
+      "normalTexture": {
+        "index": 2,
+        "scale": 0.4834222561
+      }
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "diffuseTexture": {
+            "index": 3
+          },
+          "glossinessFactor": 1.0,
+          "specularFactor": [
+            0.0504954268,
+            0.0504954268,
+            0.0504954268
+          ],
+          "specularGlossinessTexture": {
+            "index": 4
+          }
+        }
+      },
+      "name": "yacht-miss",
+      "normalTexture": {
+        "index": 5,
+        "scale": 0.5870807927
+      }
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "diffuseTexture": {
+            "index": 6
+          },
+          "glossinessFactor": 0.7604801829,
+          "specularFactor": [
+            0.495617378,
+            0.495617378,
+            0.495617378
+          ],
+          "specularGlossinessTexture": {
+            "index": 7
+          }
+        }
+      },
+      "name": "yacht-bdy",
+      "normalTexture": {
+        "index": 8,
+        "scale": 0.5748856707
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "yacht-bdy_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "yacht-missc_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "water_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        4,
+        6
+      ],
+      "name": "Root"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        5.98881,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.3435199999999998,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.59846,
+        0.0,
+        0.0,
+        0.0,
+        0.49193000000000003,
+        1.0
+      ],
+      "name": "yacht-bdy"
+    },
+    {
+      "mesh": 0,
+      "name": "yacht-bdy_0"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        5.98881,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.3435199999999998,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.59846,
+        0.0,
+        0.0,
+        0.0,
+        0.49193000000000003,
+        1.0
+      ],
+      "name": "yacht-missc"
+    },
+    {
+      "mesh": 1,
+      "name": "yacht-missc_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        11.642369999999998,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        11.642369999999998,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        11.642369999999998,
+        0.0,
+        -0.07938,
+        4.127819999999999,
+        0.0,
+        1.0
+      ],
+      "name": "water"
+    },
+    {
+      "mesh": 2,
+      "name": "water_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    },
+    {
+      "sampler": 0,
+      "source": 6
+    },
+    {
+      "sampler": 0,
+      "source": 7
+    },
+    {
+      "sampler": 0,
+      "source": 8
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "hydro3djs",
+  "version": "1.0.0",
+  "description": "3D Hydrological Visualization Library for interactive water, rain, and terrain scenes.",
+  "scripts": {
+    "start": "webpack serve --config webpack.config.js --mode development --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HydroInformatics Lab",
+  "license": "MIT",
+  "dependencies": {
+    "@googlemaps/js-api-loader": "^1.13.9",
+    "@turf/turf": "^6.5.0",
+    "@tweenjs/tween.js": "^21.0.0",
+    "bulma": "^1.0.1",
+    "dat.gui": "^0.7.9",
+    "deck.gl": "^8.8.6",
+    "delaunator": "^5.0.1",
+    "delaunay-triangulate": "^1.1.6",
+    "martinez-polygon-clipping": "^0.7.3",
+    "node-fetch": "^2.7.0",
+    "point-in-polygon": "^1.1.0",
+    "react": "^18.2.0",
+    "svg-morpher": "^1.0.7",
+    "three": "^0.138.3",
+    "three.meshline": "^1.4.0"
+  },
+  "devDependencies": {
+    "@deck.gl/google-maps": "^8.8.6",
+    "html-webpack-plugin": "^5.6.3",
+    "webpack": "^5.99.9",
+    "webpack-cli": "^4.10.0",
+    "webpack-dev-server": "^4.15.2"
+  }
+}

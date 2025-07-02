@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lowpoly island
+* source:	https://sketchfab.com/3d-models/lowpoly-island-26c3f2f271ab41a5a0c9178ac5304df8
+* author:	alfance (https://sketchfab.com/alfance)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lowpoly island" (https://sketchfab.com/3d-models/lowpoly-island-26c3f2f271ab41a5a0c9178ac5304df8) by alfance (https://sketchfab.com/alfance) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tornado mesh
+* source:	https://sketchfab.com/3d-models/tornado-mesh-a5f2fef634594bcca845162922aaad46
+* author:	Marco Zakaria (https://sketchfab.com/marcoZakaria)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tornado mesh" (https://sketchfab.com/3d-models/tornado-mesh-a5f2fef634594bcca845162922aaad46) by Marco Zakaria (https://sketchfab.com/marcoZakaria) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

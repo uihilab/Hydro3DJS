@@ -1,0 +1,11 @@
+Model Information:
+* title:	Map Pointer
+* source:	https://sketchfab.com/3d-models/map-pointer-162fba8901ea4ce5894d8b0916d802b4
+* author:	thekiross (https://sketchfab.com/thekiross)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Map Pointer" (https://sketchfab.com/3d-models/map-pointer-162fba8901ea4ce5894d8b0916d802b4) by thekiross (https://sketchfab.com/thekiross) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

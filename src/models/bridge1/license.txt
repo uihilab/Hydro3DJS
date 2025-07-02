@@ -1,0 +1,11 @@
+Model Information:
+* title:	Old Bridge
+* source:	https://sketchfab.com/3d-models/old-bridge-886efeb526374777b6b6d4e8fb1ebfdb
+* author:	IProZenoN (https://sketchfab.com/IProZenoN)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Old Bridge" (https://sketchfab.com/3d-models/old-bridge-886efeb526374777b6b6d4e8fb1ebfdb) by IProZenoN (https://sketchfab.com/IProZenoN) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

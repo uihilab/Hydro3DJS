@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rain Gauge of Imunwon hall
+* source:	https://sketchfab.com/3d-models/rain-gauge-of-imunwon-hall-6a27522c7af64a9ab443165e22e08d64
+* author:	Cultural Heritage Administration (https://sketchfab.com/CHA_Asset)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rain Gauge of Imunwon hall" (https://sketchfab.com/3d-models/rain-gauge-of-imunwon-hall-6a27522c7af64a9ab443165e22e08d64) by Cultural Heritage Administration (https://sketchfab.com/CHA_Asset) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

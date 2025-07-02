@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ancient Greek Harbor
+* source:	https://sketchfab.com/3d-models/ancient-greek-harbor-175183d1dee9489cba566a918981ef17
+* author:	sebasxpm (https://sketchfab.com/sebasxpm)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ancient Greek Harbor" (https://sketchfab.com/3d-models/ancient-greek-harbor-175183d1dee9489cba566a918981ef17) by sebasxpm (https://sketchfab.com/sebasxpm) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
